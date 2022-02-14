@@ -24,3 +24,18 @@ Max is a retiree from a village outside Queenstown in the Eastern Cape Province.
 - There is no clear policy about farming from the National level that extends to the provincial level
 - There is no information from the government on how to insure crops and livestock and the value of that insurance
 - There is no information on where to buy or rent machinery within the Eastern Cape province
+
+## Mininum Viable Product
+
+### Scope of project
+All of the challenges will be addressed except issues of farming management
+
+### What Kind Of Product Does Max Want?
+He would like a website where he can view different kinds of information and download a document and print it for reference later. He says he can drive to town and access computer services there. A cellphone(USSD) service is not a priority to him
+
+### Version 1 of product
+
+#### Lack of information on livestock
+
+- A website that will show vaccine schedule for all livestock
+- It will also show the diseases in the area and the medication for it
