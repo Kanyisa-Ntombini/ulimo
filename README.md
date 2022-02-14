@@ -6,7 +6,21 @@ Max is a retiree from a village outside Queenstown in the Eastern Cape Province.
 
 ## Max's Challenges
 
-### Lack of Information on Farming Management
-1. There is no clear policy about farming from the National level that extends to the provincial level
-2. There is no information from the government on how to insure crops and livestock and the value of that insurance
-3. There is no information on where to buy or rent machinery within the Eastern Cape province
+### Lack Of Information On Planting
+- Information is needed on the composition of the land
+- What to use as fertiliser on the soil (manure or commercial fertiliser)
+- Information on the different types of seeds available for different types of soil and whether these seeds are resistent to drought, diseases, etc
+- The diseases in the area and what pesticides/insecticides work against them
+
+### Lack Of Information On Livestock
+- Disease in the area and medicine for it
+- Vaccine schedules
+
+### Climate Change
+- Rain predictions for next year so decisions can be made on planting time
+- Planting times have changed from September to January due to climate change
+
+### Lack Of Information Of Farming Management
+- There is no clear policy about farming from the National level that extends to the provincial level
+- There is no information from the government on how to insure crops and livestock and the value of that insurance
+- There is no information on where to buy or rent machinery within the Eastern Cape province
