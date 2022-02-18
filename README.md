@@ -1,6 +1,6 @@
 # Ulimo ne Mfuyo
 
-![Use Case Diagram](./first-presentation/farmers.jpg)
+![Use Case Diagram](./pictures/farmers.jpg)
 
 ## Description
 
